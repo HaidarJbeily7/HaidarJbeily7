@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haidarjbeily7&label=Profile%20views&color=0e75b6&style=flat" alt="haidarjbeily7" /> </p>
 
 
-- 🌱 I’m currently learning **Solidity, Hardhat**
+- 🌱 I’m currently learning **Rust, Go**
 
-- 💬 Ask me about **Backend Development and Databases**
+- 💬 Ask me about **Backend Development, Blockchain and Databases**
 
 - 📫 How to reach me **haidarjbeily76@gmail.com**
 
