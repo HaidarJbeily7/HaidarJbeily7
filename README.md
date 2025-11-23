@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Haidar Jbeily</h1>
-<h3 align="center">a passionate and experienced software engineer who's excited about the future of the internet and the potential of web3 technologies.</h3>
+<h3 align="center">Software Engineer interested in Databases and Backend Systems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haidarjbeily7&label=Profile%20views&color=0e75b6&style=flat" alt="haidarjbeily7" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=haidarjbeily7&label=Profile%20views&color=0e75b6&style=flat" alt="haidarjbeily7" />
+</p>
 
-
-- 🌱 I’m currently learning **Rust, Go**
-
-- 💬 Ask me about **Backend Development, Blockchain and Databases**
-
-- 📫 How to reach me **haidarjbeily76@gmail.com**
-
+- 🛠 I work mainly on **Backend Development**  
+- 🗄️ Passionate about **Databases**  
+- 🦀 Built experience with **Rust** and **Go**  
+- 📫 Reach me at **haidarjbeily76@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haidar-jbeily-5478081b3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haidarjbeily@gmail.com) 
